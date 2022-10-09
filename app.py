@@ -1,2 +1,0 @@
-print("Git")
-print("RCPIT")
